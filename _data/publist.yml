@@ -1,4 +1,4 @@
-- title: "Mixture-of-Subspaces in Low-Rank Adaptation"
+- title: "[EMNLP 2024] Mixture-of-Subspaces in Low-Rank Adaptation"
   image: moslora.png
   description: We introduce a subspace-inspired Low-Rank Adaptation (LoRA) method, which is computationally efficient, easy to implement, and readily applicable to large language, multimodal, and diffusion models.
   authors: Taiqiang Wu, Jiahao Wang, Zhe Zhao, Ngai Wong
@@ -9,10 +9,10 @@
   highlight: 1
 
 
-- title: "Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models"
+- title: "[COLING 2025] Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models"
   image: akl.png
   description: We provide a deeper insight into forward KL and reverse KL in the KD for LLM and then propose a novel AKL based on the analysis.
-  authors: Taiqiang Wu, Chaofan Tao, Jiahao Wang, Zhe Zhao, Ngai Wong
+  authors: Taiqiang Wu, Chaofan Tao, Jiahao Wang, Runming Yang, Zhe Zhao, Ngai Wong
   link:
     url: https://arxiv.org/abs/2404.02657
     blog: https://zhuanlan.zhihu.com/p/690748958

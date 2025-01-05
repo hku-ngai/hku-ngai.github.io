@@ -8,7 +8,7 @@ permalink: /people/
 
 # Group Members
 
- **We are  looking for new PhD students and Master students to join the team** [(see openings)](https://hku-ngai.github.io/vacancies) **!**
+ **We are  looking for new PhD students to join the team** [(see openings)](https://hku-ngai.github.io/vacancies) **!**
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
