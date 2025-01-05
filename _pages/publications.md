@@ -10,41 +10,41 @@ permalink: /publications/
 
 ## Preprints
 
-**[Autoregressive Models in Vision: A Survey](https://arxiv.org/abs/2411.05902)**
-Jing Xiong, Gongye Liu, Lun Huang, Chengyue Wu, Taiqiang Wu, Yao Mu, Yuan Yao, Hui Shen, Zhongwei Wan, Jinfa Huang, Chaofan Tao, Shen Yan, Huaxiu Yao, Lingpeng Kong, Hongxia Yang, Mi Zhang, Guillermo Sapiro, Jiebo Luo, Ping Luo, Ngai Wong
+**[Autoregressive Models in Vision: A Survey](https://arxiv.org/abs/2411.05902)** 
+Jing Xiong, Gongye Liu, Lun Huang, Chengyue Wu, Taiqiang Wu, Yao Mu, Yuan Yao, Hui Shen, Zhongwei Wan, Jinfa Huang, Chaofan Tao, Shen Yan, Huaxiu Yao, Lingpeng Kong, Hongxia Yang, Mi Zhang, Guillermo Sapiro, Jiebo Luo, Ping Luo, Ngai Wong 
 
-**[UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference](https://arxiv.org/pdf/2410.03090)**
-Jing Xiong, Jianghan Shen, Fanghua Ye, Chaofan Tao, Zhongwei Wan, Jianqiao Lu, Xun Wu, Chuanyang Zheng, Zhijiang Guo, Lingpeng Kong, Ngai Wong
+**[UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference](https://arxiv.org/pdf/2410.03090)** 
+Jing Xiong, Jianghan Shen, Fanghua Ye, Chaofan Tao, Zhongwei Wan, Jianqiao Lu, Xun Wu, Chuanyang Zheng, Zhijiang Guo, Lingpeng Kong, Ngai Wong 
 
-**[UncertaintyRAG: Span-Level Uncertainty Enhanced Long-Context Modeling for Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.02719?)**
-Zixuan Li, Jing Xiong, Fanghua Ye, Chuanyang Zheng, Xun Wu, Jianqiao Lu, Zhongwei Wan, Xiaodan Liang, Chengming Li, Zhenan Sun, Lingpeng Kong, Ngai Wong
+**[UncertaintyRAG: Span-Level Uncertainty Enhanced Long-Context Modeling for Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.02719?)** 
+Zixuan Li, Jing Xiong, Fanghua Ye, Chuanyang Zheng, Xun Wu, Jianqiao Lu, Zhongwei Wan, Xiaodan Liang, Chengming Li, Zhenan Sun, Lingpeng Kong, Ngai Wong 
 
 **[LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models](https://arxiv.org/abs/2408.10631)**  
-Yupeng Su, Ziyi Guan, Xiaoqun Liu, Tianlai Jin, Dongkuan Wu, Graziano Chesi, Ngai Wong, Hao Yu
+Yupeng Su, Ziyi Guan, Xiaoqun Liu, Tianlai Jin, Dongkuan Wu, Graziano Chesi, Ngai Wong, Hao Yu 
 
 **[Poisoning-based Backdoor Attacks for Arbitrary Target Label with Positive Triggers](https://arxiv.org/abs/2405.05573)**    
-Binxiao Huang, Jason Chun Lok, Chang Liu, Ngai Wong
+Binxiao Huang, Jason Chun Lok, Chang Liu, Ngai Wong 
 
 **[Stochastic Multivariate Universal-Radix Finite-State Machine: a Theoretically and Practically Elegant Nonlinear Function Approximator](https://arxiv.org/pdf/2405.02356)**    
-Xincheng Feng, Guodong Shen, Jianhao Hu, Meng Li, Ngai Wong
+Xincheng Feng, Guodong Shen, Jianhao Hu, Meng Li, Ngai Wong 
 
 
 ## Publications
 
-**[Taming Lookup Tables for Efficient Image Retouching](https://link.springer.com/chapter/10.1007/978-3-031-73636-0_9)**
-Sidi Yang, Binxiao Huang, Mingdeng Cao, Yatai Ji, Hanzhong Guo, Ngai Wong, Yujiu Yang
+**[Taming Lookup Tables for Efficient Image Retouching](https://link.springer.com/chapter/10.1007/978-3-031-73636-0_9)** 
+Sidi Yang, Binxiao Huang, Mingdeng Cao, Yatai Ji, Hanzhong Guo, Ngai Wong, Yujiu Yang 
 ECCV2025
 
 **[Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2404.02657)**   
-Taiqiang Wu, Chaofan Tao, Jiahao Wang, Runming Yang, Zhe Zhao, Ngai Wong
+Taiqiang Wu, Chaofan Tao, Jiahao Wang, Runming Yang, Zhe Zhao, Ngai Wong 
 COLING2025
 
 **[Mixture-of-Subspaces in Low-Rank Adaptation](https://arxiv.org/abs/2406.11909)**   
-Taiqiang Wu, Jiahao Wang, Zhe Zhao, Ngai Wong
+Taiqiang Wu, Jiahao Wang, Zhe Zhao, Ngai Wong 
 EMNLP2024
 
 **[Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies](https://arxiv.org/abs/2407.13623)**  
-Chaofan Tao, Qian Liu, Longxu Dou, Niklas Muennighoff, Zhongwei Wan, Ping Luo, Min Lin, Ngai Wong
+Chaofan Tao, Qian Liu, Longxu Dou, Niklas Muennighoff, Zhongwei Wan, Ping Luo, Min Lin, Ngai Wong 
 NIPS2024
 
 **[Nonparametric Teaching of Implicit Neural Representations](https://arxiv.org/abs/2405.10531)**  
