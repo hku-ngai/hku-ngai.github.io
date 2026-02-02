@@ -21,6 +21,7 @@ His research focuses on efficient AI.
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
   </ol>
 
   <!-- Items -->
@@ -36,6 +37,9 @@ His research focuses on efficient AI.
         </div>
          <div class="item" align="center">
             <img src="https://hku-ngai.github.io/images/home_run_images/new_year_gather_2025.jpg" alt="Slide 4" style="height:400px" />
+        </div>
+        <div class="item" align="center">
+            <img src="https://hku-ngai.github.io/images/home_run_images/new_year_gather_2026.jpg" alt="Slide 5" style="height:400px" />
         </div>
   </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

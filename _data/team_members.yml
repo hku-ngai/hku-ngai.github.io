@@ -4,6 +4,7 @@
   email: nwong@eee.hku.hk
   number_educ: 0
 
+
 - name: <a href="https://zhengwuliu.github.io/">Zhengwu Liu</a>
   photo: lzw.jpg
   info: Research Assistant Professor
@@ -11,32 +12,19 @@
   number_educ: 0
 
 
-
-- name: <a href="https://harr7y.github.io/">Binxiao Huang</a>
-  photo: hbx.jpg
-  info: PhD Student
-  email: bxhuang@eee.hku.hk
-  number_educ: 0
-
-
 - name: <a href="https://richardhku.github.io/">Wenyong Zhou</a>
   photo: zwy.jpg
-  info: PhD Student
+  info: PostDoc
   email: wenyongz@connect.hku.hk
   number_educ: 0
 
 
-- name: <a href="https://easongzy.github.io/">Ziyi Guan</a>
-  photo: gzy.jpg
+- name: Boyu Li
+  photo: lby.jpg
   info: PhD Student
-  email: zyguan@eee.hku.hk
+  email: liboyu@eee.hku.hk
   number_educ: 0
 
-- name: <a href="https://scholar.google.com/citations?hl=en&user=4KQ6SKUAAAAJ">Jiajun Zhou</a>
-  photo: zjj.jpg
-  info: PhD Student
-  email: ryjjc@connect.hku.hk
-  number_educ: 0
 
 - name: <a href="https://wutaiqiang.github.io/">Taiqiang Wu</a>
   photo: wtq.jpg
@@ -128,6 +116,38 @@
   number_educ: 0
 
 
+- name: <a href="https://liuhaobohku.github.io/">Haobo Liu</a>
+  photo: lhb.jpg
+  info: PhD Student
+  email: haoboliu@connect.hku.hk
+  number_educ: 0
+
+
+- name: <a href="https://nicyyyy.github.io/">Qingyao Yang</a>
+  photo: yqy.jpg
+  info: PhD Student
+  email: tsingyow@gmail.com
+  number_educ: 0
+
+
+- name: <a href="https://rattlesnakey.github.io/">Hengyuan Zhang</a>
+  photo: zhy.jpg
+  info: PhD Student
+  email: hengyuan.zhang88@gmail.com
+  number_educ: 0
+
+- name: <a href="https://ywh187.github.io/">Weihao Ye</a>
+  photo: ywh.jpg
+  info: Incoming PhD Student
+  email: ywh187@gmail.com
+  number_educ: 0
+
+- name: <a href="https://zunhaisu.github.io/">Zunhai Su</a>
+  photo: szh.jpg
+  info: Incoming PhD Student
+  email: zh-su23@mails.tsinghua.edu.cn
+  number_educ: 0
+
 - name: <a href="https://chaofantao.top/">Chaofan Tao</a>
   photo: tcf.jpg
   info: Alumni
@@ -158,6 +178,25 @@
   email: jieran@eee.hku.hk
   number_educ: 0
 
+- name: <a href="https://harr7y.github.io/">Binxiao Huang</a>
+  photo: hbx.jpg
+  info: Alumni
+  email: bxhuang@eee.hku.hk
+  number_educ: 0
+
+- name: <a href="https://easongzy.github.io/">Ziyi Guan</a>
+  photo: gzy.jpg
+  info: Alumni
+  email: zyguan@eee.hku.hk
+  number_educ: 0
+
+- name: <a href="https://scholar.google.com/citations?hl=en&user=4KQ6SKUAAAAJ">Jiajun Zhou</a>
+  photo: zjj.jpg
+  info: Alumni
+  email: ryjjc@connect.hku.hk
+  number_educ: 0
+
+
 - name: <a href="https://scholar.google.com/citations?user=_ri26UsAAAAJ&hl=zh-CN">Tianshu Hou</a>
   photo: hts.jpg
   info: Visiting Student
@@ -168,4 +207,10 @@
   photo: sh.jpg
   info: Research Assistant
   email: huishen@umich.edu
+  number_educ: 0
+
+- name: <a href="https://github.com/KingdalfGoodman">Junyu Chen</a>
+  photo: cjy.jpg
+  info: Research Assistant
+  email: 223081200039@smail.swufe.edu.cn
   number_educ: 0
